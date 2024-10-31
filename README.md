@@ -5,7 +5,7 @@
 
 ## About Me
 
-- 🌟 **Name**: ThatMagicToast 🤫
+- 🌟 **Name**: ThatMagicToast 🪄
 - 👀 **Interests**: Robotics and programming.
 - ⚡ **Fun Fact**: I once had an amazing pet cat.
 - 📕 **Reading**: The art of electronics, A tour into C++
