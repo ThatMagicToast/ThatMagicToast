@@ -18,12 +18,12 @@ Welcome to my GitHub profile! 😊
 - [**Mission-Indicator---Terminal**]: This is currently being worked on using VS Code on Arduino and PlatformIO to see if it functions as intended!
 - [**ThatMagicToast/Mission-Indicator-Colour-Prototype**]: This original draft I worked on has now been updated to the Terminal version for memory optimisation. 
 - [**AcceleroWheel**]: This will be the optimised code of the evaluations on the original and optimisations to ensure they are maintained.
-- [**effective-disco**]: This is just my testing location for all my Python programming which I do in my free time.
+- [**effective-disco**]: This is just my testing location for all my Python programming, which I do in my free time.
 
 ## Skills:
 
-- **Languages**: C++, C#, C, Python, Java, Lua, Rust, TypeScript, JavaScript - it's increasing over time, and I'm always willing to learn!
-- **Technologies**: VS Code, Arduino, PlatformIO, Git, Neovim, GitLens, GitKraken, etc... ❤️
+- **Languages**: C++, C#, C, Python, Java, MicroPython, Lua, Rust, TypeScript, JavaScript - I'm always willing to learn!
+- **Technologies**: VS Code, Arduino, PlatformIO, Git, Vim, Neovim, GitLens, GitKraken, etc... ❤️
 
 ## Get in Touch:
 
