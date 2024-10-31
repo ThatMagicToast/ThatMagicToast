@@ -7,8 +7,8 @@
 
 - 🌟 **Name**: ThatMagicToast 🪄
 - 👀 **Interests**: Robotics and programming.
-- ⚡ **Fun Fact**: I used to be into developing games.
-- 📕 **Reading**: The art of electronics, A tour into C++
+- ⚡ **Fact**: I was into developing different games.
+- 📕 **Reading**: The art of electronics, A tour into C++.
 - ✨ **Hobbies**: Usually, I enjoy playing the electric guitar in my downtime!
 - 😎 **Drinks**: I always will definitely take a coffee any day!
 - 🧇 **Cooking**: I still like making waffles from scratch.
