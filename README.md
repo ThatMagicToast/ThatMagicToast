@@ -16,8 +16,8 @@
 ## Projects
 
 - [**Mission-Indicator---Terminal**](https://github.com/ThatMagicToast/Mission-Indicator---Terminal): This project involves using VS Code on Arduino and PlatformIO.
-- [**Mission-Indicator-Colour-Prototype**](https://github.com/ThatMagicToast/Mission-Indicator-Colour-Prototype): The original draft has been updated to the Terminal version for memory optimization.
-- [**AcceleroWheel**](https://github.com/ThatMagicToast/AcceleroWheel): Optimized code evaluations to ensure they are maintained.
+- [**Mission-Indicator-Colour-Prototype**](https://github.com/ThatMagicToast/Mission-Indicator-Colour-Prototype): The original draft has been updated to the Terminal version for memory.
+- [**AcceleroWheel**](https://github.com/ThatMagicToast/AcceleroWheel): On this project I was doing code evaluations to ensure they are maintained properly.
 - [**effective-disco**](https://github.com/ThatMagicToast/effective-disco): My testing location for Python programming, which I do in my free time.
 
 ## Skills
