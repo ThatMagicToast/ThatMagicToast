@@ -10,7 +10,7 @@ Welcome to my GitHub profile! 😊
 - 👀 **Interests**: Robotics and programming.
 - ⚡ **Fun Fact**: I once had an amazing pet cat.  
 - ✨ **Hobbies**: I enjoy playing the electric guitar in my free time.
-- 😎 **Drinks**: I would definitely take a Tea or a Coffee any day!
+- 😎 **Drinks**: I would definitely take a a Coffee any day!
 - 🧇 **Cooking**: I always like to make waffles from the base.
 
 ## Projects:
