@@ -6,11 +6,12 @@
 ## About Me
 
 - 🌟 **Name**: ThatMagicToast
-- 👀 **Interests**: Robotics and programming
-- ⚡ **Fun Fact**: I once had an amazing pet cat
-- ✨ **Hobbies**: I enjoy playing the electric guitar in my free time
+- 👀 **Interests**: Robotics and programming.
+- ⚡ **Fun Fact**: I once had an amazing pet cat.
+- 📕 **Reading**: The art of electronics, Bletchley Park code breakers, A tour into C++
+- ✨ **Hobbies**: Usually, I enjoy playing the electric guitar in my free time
 - 😎 **Drinks**: I would definitely take a coffee any day!
-- 🧇 **Cooking**: I always like to make waffles from scratch
+- 🧇 **Cooking**: I always like to make waffles from scratch.
 
 ## Projects
 
