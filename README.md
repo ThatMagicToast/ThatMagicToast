@@ -27,7 +27,7 @@
 ## Get in Touch
 
 - **Email**: [thatmagictoast@gmail.com](mailto:thatmagictoast@gmail.com)
-  This email is exclusively for GitHub! You can reach me here! ✌️
+  This email is only for GitHub! You can reach me here! ✌️
 
 <!---
 ThatMagicToast/ThatMagicToast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
