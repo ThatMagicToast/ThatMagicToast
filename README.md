@@ -22,7 +22,7 @@
 ## Skills
 
 - **Languages**: C++, C#, C, Python, Java, MicroPython, Lua, Rust, TypeScript, JavaScript, etc... ❤️
-- **Technologies**: VS Code, Arduino, PlatformIO, Git, Vim, Neovim, GitLens, GitKraken
+- **Technologies**: VS Code, Visual Studio, Arduino, PlatformIO, Git, Vim, Neovim, GitLens, GitKraken, PyCharm, Rider, Docker, Linux
 
 ## Get in Touch
 
