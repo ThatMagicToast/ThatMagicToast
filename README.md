@@ -2,7 +2,7 @@
 
 # Hi there, I'm ThatMagicToast! 👋
 
-Welcome to my GitHub profile! 😊
+Welcome to my GitHub profile! :>
 
 ## About Me
 
