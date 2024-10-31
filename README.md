@@ -15,8 +15,6 @@ Welcome to my GitHub profile! 😊
 
 ## Projects:
 
-Here are some of the projects I'm working on currently:
-
 - [**Mission-Indicator---Terminal**]: This is currently being worked on using VS Code on Arduino and PlatformIO to see if it functions as intended!
 - [**ThatMagicToast/Mission-Indicator-Colour-Prototype**]: This original draft I worked on has now been updated to the Terminal version for memory optimisation. 
 - [**AcceleroWheel**]: This will be the optimised code of the evaluations on the original and optimisations to ensure they are maintained.
