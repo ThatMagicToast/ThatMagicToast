@@ -7,11 +7,10 @@
 
 - 🌟 **Name**: ThatMagicToast 🪄
 - 👀 **Interests**: Robotics and programming.
-- ⚡ **Fact**: I was into developing different games.
-- 📕 **Reading**: Unfiltered
-- ✨ **Hobbies**: Usually, I enjoy playing the guitar in my downtime!
+- 🔥 **Fact**: Currently, I am doing more heavy research than usual with Data Models.
+- ✨ **Hobbies**: Usually, I enjoy playing the eletric guitar in my downtime!
 - 😎 **Drinks**: I always will definitely take a coffee any day!
-- 🧇 **Cooking**: I still like making waffles from scratch.
+- 🧇 **Cooking**: I still like making waffles from scratch with a bit of ice cream.
 
 ## Projects
 
