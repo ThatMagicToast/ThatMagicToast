@@ -6,7 +6,7 @@
 ## About Me
 
 - 🌟 **Name**: ThatMagicToast 🪄
-- 👀 **Interests**: Robotics and programming.
+- 👀 **Interests**: Robotics and programming. 
 - 🔥 **Fact**: Currently, I am doing more heavy research than usual with Data Models.
 - ✨ **Hobbies**: Usually, I enjoy playing the eletric guitar in my downtime!
 - 😎 **Drinks**: I always will definitely take a coffee any day!
